@@ -31,7 +31,7 @@ Note!!
 
 The mtkclient commands are like this on Linux Debian like Ubuntu which I used for it but you can also use windows mtkclient but I don't know the commands for it so you might research for the windows a bit
 
-Please if you fixed it leave your img down below
+Please if you fixed it leave your img in the Discord Home Assistant Community
 
 Thank you ,
 
